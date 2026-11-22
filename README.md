@@ -49,7 +49,7 @@ Server owners can tune everything in `config/blurt-server.json`: penalties on/of
 
 ## Download
 
-Each Minecraft version needs **two jars: Blurt and Blurt Core**. Grab both from the [latest release](https://github.com/SpicesFire/Blurt/releases/latest), or the one `blurt-bundle-….zip` for your loader (unzip it and put both jars in your `mods` folder). The same files, with SHA-256 checksums, are on **https://spicesfire.com/blurt/#download**. Modrinth and CurseForge pages are in review.
+Each Minecraft version needs **two jars: Blurt and Blurt Core**. Grab both from the [latest release](https://github.com/SpicesFire/Blurt/releases/latest), or the one `blurt-bundle-….zip` for your loader (unzip it and put both jars in your `mods` folder). The same files, with SHA-256 checksums, are on **https://spicesfire.com/blurt/**. Modrinth and CurseForge pages are in review.
 
 | Loader | Minecraft | Java | Needs |
 |---|---|---|---|
